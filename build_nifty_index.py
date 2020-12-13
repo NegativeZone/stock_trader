@@ -1,6 +1,5 @@
 import pandas as pd
 import glob
-from os.path import basename, splitext
 
 filenames = glob.glob('dataset/nse/index/yearly/*.csv')
 li = []
