@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,ICICIBANK,EQ,69.2,74.35,74.75,71.4,74.75,74.75,73.2,286260,2095439040000.0,,,,75.0,75.55,72.0,75.55,74.13645763140161,474880.0,1175.0,35205921.0,,,3.55,0.55
 2000-01-04,ICICIBANK,EQ,74.75,73.05,78.5,71.0,73.25,73.05,73.38,296264,2173892790000.0,,,,79.45,80.4,72.3,73.65,74.55856433263902,280845.0,1075.0,20939400.0,,,8.1,-5.8
 2000-01-05,ICICIBANK,EQ,73.05,70.0,73.5,67.5,70.0,69.5,70.85,227624,1612793995000.0,,,,72.5,74.0,67.8,69.3,71.53559367050639,436749.0,1194.0,31243099.0,,,6.2,-3.2

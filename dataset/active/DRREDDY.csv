@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,DRREDDY,EQ,1396.5,1505.0,1508.25,1505.0,1508.25,1508.25,1508.21,13280,2002904375000.0,,,,1500.0,1557.35,1500.0,1557.35,1544.1951536499453,82330,945,127133587.0,,,57.35,57.35
 2000-01-04,DRREDDY,EQ,1508.25,1590.0,1628.95,1510.0,1628.95,1628.95,1579.29,57142,9024404910000.0,,,,1601.0,1681.0,1527.0,1647.25,1621.0409301486638,210676,3308,341514419.0,,,154.0,46.25
 2000-01-05,DRREDDY,EQ,1628.95,1549.0,1650.0,1499.0,1566.0,1568.05,1594.99,119697,19091553600000.0,,,,1600.0,1648.0,1515.5,1559.0,1590.9039232942253,205669,2707,327199619.0,,,132.5,-41.0

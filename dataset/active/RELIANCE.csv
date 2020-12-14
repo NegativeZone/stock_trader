@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,RELIANCE,EQ,233.05,237.5,251.7,237.5,251.7,251.7,249.37,4456424,111131914445000.0,,,,240.0,252.35,240.0,252.35,249.7068884812228,5731815,10459,1431273689.0,,,12.35,12.35
 2000-01-04,RELIANCE,EQ,251.7,258.4,271.85,251.3,271.85,271.85,263.52,9487878,250022190690000.0,,,,255.1,272.5,251.0,272.5,265.15001183504035,11491300,18817,3046918331.0,,,21.5,17.4
 2000-01-04,RELIANCE,EQ,251.7,258.4,271.85,251.3,271.85,271.85,263.52,9487878,250022190690000.0,,,,242.5,268.9,242.5,268.9,255.7,1600,2,409120.0,,,26.4,26.4

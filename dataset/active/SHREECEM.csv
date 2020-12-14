@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,SHREECEM,EQ,63.5,68.0,68.0,63.05,63.6,64.75,65.13,30530.0,198842050000.0,,,,66.0,66.95,64.9,65.0,65.81907692307692,13000.0,52.0,855648.0,,,2.05,-1.0
 2000-01-04,SHREECEM,EQ,64.75,65.6,66.0,59.6,59.6,59.85,60.7,23525.0,142791950000.0,,,,63.0,63.0,60.0,60.0,60.28942115768464,2505.0,25.0,151025.0,,,3.0,-3.0
 2000-01-05,SHREECEM,EQ,59.85,59.1,61.0,59.0,60.0,60.0,60.03,23535.0,141292250000.0,,,,56.0,61.5,56.0,57.75,58.354464285714286,5600.0,25.0,326785.0,,,5.5,1.75

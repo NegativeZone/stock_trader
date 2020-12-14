@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2002-02-18,BHARTI,EQ,0.0,51.9,51.9,43.5,44.7,44.35,46.0,10381190,47754314050000.0,,6503775.0,0.6265,55.0,55.0,43.4,44.15,45.87232948229026,6925483,15355,317688038.0,,,11.6,-10.85
 2002-02-19,BHARTI,EQ,44.35,45.15,45.15,41.3,41.35,41.7,42.58,3552660,15126094130000.002,,1741184.0,0.4901,44.6,44.9,41.0,41.2,42.47451452952912,1698713,7641,72152010.0,,,3.9,-3.4
 2002-02-20,BHARTI,EQ,41.7,40.6,42.8,40.25,41.2,41.25,41.56,2512964,10443478265000.0,,,,39.8,42.9,39.75,41.4,41.63419177097126,1079131,5783,44928747.0,,,3.15,1.6

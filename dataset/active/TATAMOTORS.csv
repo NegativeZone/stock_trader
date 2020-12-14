@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,TELCO,EQ,201.6,207.4,217.25,207.4,217.0,216.75,214.28,676126,14487752460000.0,,,,208.9,217.05,207.0,217.0,214.7598069474077,965540.0,3888.0,207359184.0,,,10.05,8.1
 2000-01-04,TELCO,EQ,216.75,217.0,219.0,206.0,211.9,208.2,209.5,679215,14229618694999.998,,,,219.6,219.6,206.0,209.5,210.1979771649144,898442.0,3888.0,188850691.0,,,13.6,-10.1
 2000-01-05,TELCO,EQ,208.2,194.0,217.8,194.0,213.1,213.25,210.33,1120951,23576835995000.0,,,,206.0,217.0,195.0,211.9,209.3404716918432,1474522.0,5357.0,308677131.0,,,22.0,5.9

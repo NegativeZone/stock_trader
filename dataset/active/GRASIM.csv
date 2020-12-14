@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,GRASIM,EQ,405.8,429.9,438.3,425.0,438.3,438.3,432.24,101578,4390621335000.0,,,,435.0,440.6,418.5,440.0,435.70245447704184,532863.0,2186.0,232169717.0,,,22.1,5.0
 2000-01-04,GRASIM,EQ,438.3,437.5,440.0,420.05,439.5,437.15,428.27,126117,5401215770000.0,,,,440.0,440.0,420.0,437.0,429.00025953557287,211917.0,1285.0,90912448.0,,,20.0,-3.0
 2000-01-05,GRASIM,EQ,437.15,420.1,447.9,412.0,430.0,439.6,436.1,163877,7146660280000.0,,,,426.0,447.0,415.0,430.0,433.48259098786826,346200.0,1887.0,150071673.0,,,32.0,4.0

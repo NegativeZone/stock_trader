@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,WIPRO,EQ,2522.4,2724.0,2724.2,2724.0,2724.2,2724.2,2724.17,1599,435594205000.0,,,,2700.0,2808.85,2700.0,2808.85,2807.774453046113,29710,555,83418979.0,,,108.85,108.85
 2000-01-04,WIPRO,EQ,2724.2,2942.15,2942.15,2942.15,2942.15,2942.15,2942.15,4392,1292192280000.0,,,,2998.0,3033.5,2935.0,3033.5,3015.1989744438015,60455,1204,182283854.0,,,98.5,35.5
 2000-01-05,WIPRO,EQ,2942.15,2942.15,3177.55,2715.0,3000.0,2990.1,3063.86,132297,40533895620000.0,,,,3033.5,3273.9,2790.85,2996.95,3070.3024231865693,151536,4357,465261348.0,,,483.05,-36.55

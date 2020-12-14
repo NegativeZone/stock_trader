@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,SESAGOA,EQ,107.7,111.0,116.35,108.0,116.35,116.35,114.8,20371.0,233859660000.0,,,,113.0,116.15,112.5,116.15,114.89470543380965,30163.0,201.0,3465569.0,,,3.65,3.15
 2000-01-04,SESAGOA,EQ,116.35,113.75,116.0,108.0,116.0,114.7,113.34,22366.0,253499440000.0,,,,117.0,120.0,112.0,115.8,114.83465300419185,23617.0,189.0,2712050.0,,,8.0,-1.2
 2000-01-05,SESAGOA,EQ,114.7,107.55,115.85,107.55,114.5,114.0,112.78,18305.0,206436075000.0,,,,112.0,116.0,107.0,113.7,112.35086185967471,20595.0,123.0,2313866.0,,,9.0,1.7

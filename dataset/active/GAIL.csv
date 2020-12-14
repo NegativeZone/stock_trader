@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,GAIL,EQ,67.8,65.0,70.0,65.0,68.8,68.7,67.91,76055.0,516516560000.0,,,,71.5,71.5,67.1,69.0,68.70291693917592,152900.0,278.0,10504676.0,,,4.4,-2.5
 2000-01-04,GAIL,EQ,68.7,69.85,72.9,66.0,67.0,66.35,67.29,98097.0,660045745000.0,,,,69.0,69.0,66.2,67.9,67.55356890459363,28300.0,126.0,1911766.0,,,2.8,-1.1
 2000-01-05,GAIL,EQ,66.35,68.35,68.7,61.1,63.0,63.2,65.24,92690.0,604688925000.0,,,,67.9,68.5,63.55,64.0,65.92620317313107,30191.0,141.0,1990378.0,,,4.95,-3.9

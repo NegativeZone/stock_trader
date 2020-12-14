@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,ASIANPAINT,EQ,361.2,370.0,390.0,370.0,385.0,381.65,380.54,3318,126261725000.0,,,,375.0,395.0,375.0,389.95,384.5964523281597,9922.0,145.0,3815966.0,,,20.0,14.95
 2000-01-04,ASIANPAINT,EQ,381.65,380.0,392.0,375.0,390.0,385.55,383.5,4818,184769865000.0,,,,380.0,391.5,374.0,390.0,385.12202477113607,9285.0,100.0,3575858.0,,,17.5,10.0
 2000-01-05,ASIANPAINT,EQ,385.55,371.5,390.0,371.5,383.0,383.0,379.81,2628,99813845000.0,,,,385.0,386.0,375.3,386.0,379.98463071011804,7027.0,110.0,2670152.0,,,10.7,1.0

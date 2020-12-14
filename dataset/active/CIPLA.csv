@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,CIPLA,EQ,1349.4,1410.0,1457.35,1380.05,1457.35,1457.35,1441.36,21060,3035495710000.0,,,,1435.0,1501.15,1425.0,1501.15,1472.5044506587365,101558.0,2138.0,149544607.0,,,76.15,66.15
 2000-01-04,CIPLA,EQ,1457.35,1537.0,1537.0,1430.0,1466.05,1465.25,1460.43,30215,4412697995000.0,,,,1528.0,1540.0,1432.25,1475.0,1472.180141579731,75152.0,1831.0,110637282.0,,,107.75,-53.0
 2000-01-05,CIPLA,EQ,1465.25,1474.0,1474.0,1365.0,1441.0,1435.05,1428.11,33799,4826872355000.0,,,,1441.0,1460.0,1365.0,1440.0,1427.1323365546305,49359.0,1194.0,70441825.0,,,95.0,-1.0

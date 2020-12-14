@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,KOTAKMAH,EQ,212.35,220.0,229.35,220.0,229.35,229.35,229.13,7086.0,162364030000.0,,,,221.0,223.55,221.0,223.55,206.29903900508762,1769.0,16.0,364943.0,,,2.55,2.55
 2000-01-04,KOTAKMAH,EQ,229.35,247.7,247.7,225.25,247.7,246.95,244.12,73681.0,1798729060000.0002,,,,241.4,241.4,225.0,241.4,238.05053820902359,39297.0,209.0,9354672.0,,,16.4,0.0
 2000-01-05,KOTAKMAH,EQ,246.95,229.0,240.0,227.2,228.0,228.4,233.75,105799.0,2473093055000.0,,,,241.4,245.0,222.1,231.0,234.9350470957613,40768.0,411.0,9577832.0,,,22.9,-10.4

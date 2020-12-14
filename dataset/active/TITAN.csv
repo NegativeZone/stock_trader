@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,TITAN,EQ,144.95,146.0,156.45,146.0,155.0,155.7,154.36,23000,355037000000.0,,,,146.0,156.2,146.0,154.9,153.76249707708698,153956.0,582.0,23672659.0,,,10.2,8.9
 2000-01-04,TITAN,EQ,155.7,152.0,152.0,144.0,148.05,147.4,146.72,26300,385870000000.0,,,,158.0,158.0,146.5,150.3,150.262837364178,45648.0,224.0,6859198.0,,,11.5,-7.7
 2000-01-05,TITAN,EQ,147.4,144.0,148.8,136.0,139.95,138.4,142.95,20600,294485000000.0,,,,148.0,148.0,138.4,138.55,142.81445130424078,113706.0,307.0,16238860.0,,,9.6,-9.45

@@ -27,7 +27,7 @@ for i in dfs_bse:
             'Low Price': 'BSE Low',
             'Close Price': 'BSE Close',
             'WAP': 'BSE WAP',
-            'No. of Shares': 'BSE Volume',
+            'No.of Shares': 'BSE Volume',
             'No. of Trades': 'BSE Trades',
             'Total Turnover (Rs.)': 'BSE Turnover',
             'Deliverable Quantity': 'BSE Deliverable',

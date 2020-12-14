@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,HEROHONDA,EQ,1145.2,1200.0,1236.8,1171.0,1209.95,1207.6,1209.11,10631,1285400800000.0,,,,1170.0,1219.3,1160.0,1207.0,1206.7706844529139,25188.0,411.0,30396140.0,,,59.3,37.0
 2000-01-04,HEROHONDA,EQ,1207.6,1200.0,1220.0,1176.0,1200.0,1199.85,1200.93,19849,2383719075000.0,,,,1200.0,1225.0,1180.0,1200.0,1202.2445040565296,15284.0,361.0,18375105.0,,,45.0,0.0
 2000-01-05,HEROHONDA,EQ,1199.85,1155.0,1178.0,1140.0,1140.0,1143.8,1159.74,2525,292835460000.0,,,,1176.0,1198.0,1131.0,1145.0,1156.801481481482,6075.0,169.0,7027569.0,,,67.0,-31.0

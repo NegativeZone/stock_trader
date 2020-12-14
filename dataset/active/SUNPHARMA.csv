@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,SUNPHARMA,EQ,1699.1,1800.0,1835.05,1760.0,1835.05,1835.05,1825.9,3024,552152475000.0,,,,1757.35,1849.45,1757.35,1849.45,1828.3770155379648,20466.0,554.0,37419564.0,,,92.1,92.1
 2000-01-04,SUNPHARMA,EQ,1835.05,1960.0,1960.0,1763.0,1811.5,1810.45,1805.97,5787,1045115490000.0,,,,1900.0,1900.0,1770.0,1795.0,1797.3236017055428,19935.0,430.0,35829646.0,,,130.0,-105.0
 2000-01-05,SUNPHARMA,EQ,1810.45,1845.0,1845.0,1740.0,1745.0,1746.9,1766.69,6105,1078563995000.0,,,,1771.0,1772.0,1651.45,1735.0,1741.301633850021,9548.0,256.0,16625948.0,,,120.55,-36.0

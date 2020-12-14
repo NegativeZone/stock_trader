@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,M&M,EQ,419.75,453.3,453.35,448.9,453.35,453.35,453.18,67195,3045173830000.0,,,,440.0,453.55,437.0,453.55,453.0633954749128,108462,335,49140162.0,,,16.55,13.55
 2000-01-04,M&M,EQ,453.35,489.6,489.65,489.6,489.65,489.65,489.65,37470,1834710050000.0,,,,480.0,489.8,463.0,489.8,489.641102338652,127039,507,62203516.0,,,26.8,9.8
 2000-01-05,M&M,EQ,489.65,528.85,528.85,451.15,519.0,514.85,521.37,227621,11867452450000.0,,,,489.8,528.95,450.65,525.0,519.0873032195342,427888,2219,222111228.0,,,78.3,35.2

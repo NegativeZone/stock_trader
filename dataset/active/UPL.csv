@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2004-01-23,UNIPHOS,EQ,10.0,100.0,560.0,100.0,555.1,553.8,483.69,73629.0,3561361450000.0,,52799.0,0.7171,500.0,570.0,451.0,557.5,500.94007335132517,72255,2015,36195425.0,,,119.0,57.5
 2004-01-27,UNIPHOS,EQ,553.8,570.0,570.0,525.0,530.1,540.35,540.77,26737.0,1445850850000.0,,17314.0,0.6476000000000001,560.0,560.0,523.0,541.1,541.7946439293863,16654,579,9023048.0,,,37.0,-18.9
 2004-01-28,UNIPHOS,EQ,540.35,530.0,565.0,511.0,542.0,538.85,542.24,32155.0,1743569020000.0,,23285.0,0.7241,524.0,570.0,515.0,537.65,537.8566322478157,37770,804,20314845.0,,,55.0,13.65

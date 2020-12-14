@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,ONGC,EQ,207.7,205.0,214.4,205.0,214.0,213.45,209.91,9600,201509000000.0,,,,216.0,216.0,207.0,212.95,210.83590909090907,11000.0,68.0,2319195.0,,,9.0,-3.05
 2000-01-04,ONGC,EQ,213.45,201.5,209.7,201.0,209.0,206.55,206.26,17900,369203000000.0,,,,208.0,210.0,202.0,207.85,204.68214285714282,14000.0,60.0,2865550.0,,,8.0,-0.15
 2000-01-05,ONGC,EQ,206.55,201.0,223.1,200.5,223.1,223.1,215.46,27000,581749000000.0,,,,202.1,224.45,201.0,224.45,213.17688813174328,17610.0,89.0,3754045.0,,,23.45,22.35

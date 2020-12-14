@@ -1,4 +1,4 @@
-Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,No.of Shares,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
+Date,Symbol,Series,Prev Close,Open,High,Low,Last,Close,VWAP,Volume,Turnover,Trades,Deliverable,Percent Deliverable,BSE Open,BSE High,BSE Low,BSE Close,BSE WAP,BSE Volume,BSE Trades,BSE Turnover,BSE Deliverable,BSE Percent Deliverable to Traded,Spread High-Low,Spread Close-Open
 2000-01-03,HDFC,EQ,271.75,293.5,293.5,293.5,293.5,293.5,293.5,22744,667536400000.0,,,,300.0,308.85,293.05,308.85,302.776160660734,1248793.0,5321.0,378104750.0,,,15.8,8.85
 2000-01-04,HDFC,EQ,293.5,317.0,317.0,297.0,304.0,304.05,303.62,255251,7749972375000.0,,,,323.0,323.5,294.0,303.75,304.24231503731323,709535.0,3573.0,215870571.0,,,29.5,-19.25
 2000-01-05,HDFC,EQ,304.05,290.0,303.9,285.0,295.0,292.8,294.53,269087,7925367705000.0,,,,299.0,301.0,280.0,292.0,291.78152030181616,504413.0,2787.0,147178392.0,,,21.0,-7.0
