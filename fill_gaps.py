@@ -34,6 +34,8 @@ for i in dfs_2010:
 print(len(X['ADANIPORTS']))
 print(len(y['ADANIPORTS']))
 
+for i in dfs_2010:
+    dfs_2010[i].to_csv('dataset/ML/'+i+'.csv', index=False)
 # df_ML = pd.DataFrame()
 #
 # for i in dfs_2010:

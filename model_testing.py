@@ -80,11 +80,15 @@ errors = output - y_test
 df_output = pd.DataFrame(output, columns=['Predicted Open', 'Predicted Close'])
 y_test = y_test.reset_index()
 X_sym = X_sym.reset_index()
-verify['Daily Trend Predicted'] = df_output['Predicted Close'] - df_output['Predicted Open']
+verify['Daily Trend Predicted'] = (
+    df_output['Predicted Close'] - df_output['Predicted Open'])
 verify['Daily Trend Actual'] = y_test['Close'] - y_test['Open']
-verify['Daily Trend Gap'] = abs(verify['Daily Trend Actual'] - verify['Daily Trend Predicted'])
+verify['Daily Trend Gap'] = (
+    abs(verify['Daily Trend Actual'] - verify['Daily Trend Predicted']))
 verify['Accuracy'] = abs(y_test['Close'] - df_output['Predicted Close'])
 verify['Stock Value'] = y_test['Close']
 verify['Stock Name'] = X_sym['Symbol']
 
-print(verify[verify['Accuracy'] < 0.1*verify['Stock Value']].sort_values(by=['Accuracy']))
+print(
+    verify[verify['Accuracy'] < 0.1*verify['Stock Value']].sort_values(
+        by=['Accuracy']))
